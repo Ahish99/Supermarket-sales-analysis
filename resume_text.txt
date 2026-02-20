@@ -1,0 +1,94 @@
+ 
+Ahishmon  AC  +91(9025334122)  |   ahishmon2003@gmail.com  |  Linkedin 
+ Education   Cms  college  of  science  and  commerce  Coimbatore,  Tamilnadu,India            Graduated  April  2024  Bachelors  in  Computer  Science   GPA:  74.04%  Relevant  coursework:  Python,  Html,  Cloudcomputing,  Data  Structure   Cms  college  of  science  and  commerce  Coimbatore,Tamilnadu,India  Masters  in  Computer  Application                                                                                                    Expected  Graduation  April  2026    Experience    Quantium  Data  Analytics  Job  Simulation  on  Forage                                                                             May  2025                                                        ●  Completed  a  job  simulation  focused  on  Data  Analytics  and  Commercial  Insights  for  the  data  science  team.   ●  Developed  expertise  in  data  preparation  and  customer  analytics,  utilizing  transaction  datasets  to  extract  valuable  insights  and  
+deliver
+ 
+data-driven
+ 
+commercial
+ 
+recommendations.
+ 
+ ●   Extended  analytical  capabilities  to  identify  benchmark  stores  for  conducting  uplift  testing  on  trial  store  layouts,  enabling  
+evidence-based
+ 
+decision-making.
+ 
+ ●  Leveraged  acquired  data  analytics  and  insights  from  previous  tasks  to  create  comprehensive  reports  for  the  Category  Manager,  
+facilitating
+ 
+informed
+ 
+strategic
+ 
+decisions
+ 
+and
+ 
+enhancing
+ 
+commercial
+ 
+applications.
+   Deloitte  Australia  Data  Analytics  Job  Simulation  on  Forage                                                                May  2025    ●   Completed  a  Deloitte  job  simulation  involving  data  analysis  and  forensic  technology   ●   Created  a  data   dashboard  using  Tableau   ●   Used  Excel  to  classify  data  and  draw  business  conclusions   Projects  and  Certifications          Google  Professional  data  analytics                                                                                               Feb  2025         Validate  data  in  Google  sheets                                                                                                     Jan   2025         Google  Ai  Essentials                                                                                                                    Dec  2024   ●  Cyclistic  Bike ‑ Share  Case  Study  |  Google  Data  Analytics  Capstone  -  Cleaned  &  merged  12  CSVs  (5.8 M  rides)  in  R;  cut  
+missing
+ 
+values
+ 
+4 %
+ 
+→ 0.2 %.
+ 
+-
+ 
+Built
+ 
+cohort
+ 
+analysis
+ 
+SQL
+ 
+queries
+ 
+revealing
+ 
+14 %
+ 
+longer
+ 
+rides
+ 
+by
+ 
+casual
+ 
+users.
+ 
+-
+ 
+Designed
+ 
+interactive
+ 
+Tableau
+ 
+dashboard
+ 
+used
+ 
+by
+ 
+20 +
+ 
+peers
+ 
+for
+ 
+scenario
+ 
+planning.  
+Technical
+ 
+Skills
+ Programming  Languages:  Python,  R,Sql,Excel,Spreadsheet,Tableau  Languages:  Tamil,English,Malayalam  

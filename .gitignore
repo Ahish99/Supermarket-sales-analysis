@@ -54,9 +54,80 @@ venv.bak/
 *.swp
 *.swo
 .DS_Store
+# Python
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor / IDE
+.idea/
+*.swp
+*.swo
+.DS_Store
 
 # Agent / AI
 .agent/
 .gemini/
 .cursor/
 .claude/
+# Portfolio - keeping the directory, but ignoring temp files if any
+portfolio/
+!portfolio/index.html
+!portfolio/style.css
+!portfolio/script.js
+!portfolio/README.md
+!portfolio/assets/
+
+# Organized Assets
+!assets/
+
+# VS Code
+.vscode/
+
+# Python/Build artifacts
+__pycache__/
+*.spec
+build/
+dist/
+*.egg-info/
