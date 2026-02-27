@@ -106,18 +106,6 @@ venv.bak/
 *.swo
 .DS_Store
 
-# Agent / AI
-.agent/
-.gemini/
-.cursor/
-.claude/
-# Portfolio - keeping the directory, but ignoring temp files if any
-portfolio/
-!portfolio/index.html
-!portfolio/style.css
-!portfolio/script.js
-!portfolio/README.md
-!portfolio/assets/
 
 # Organized Assets
 !assets/
